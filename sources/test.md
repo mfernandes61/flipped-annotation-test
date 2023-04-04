@@ -93,7 +93,7 @@ computer. A layer, called the hypervisor, has the role of running the VM
 and transferring data in and out of it.
 
 ![hypervisor host os of a virtual machine diagram
-](media/image1.png){width="3.071084864391951in"
+](media/virtual.jpg){width="3.071084864391951in"
 height="3.0833333333333335in"}\
 *Lifted diagram (Redraw for final)*
 
