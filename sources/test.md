@@ -1,4 +1,4 @@
-# testing GHA PDF generation
+# testing Github Actions PDF generation
 
 **[Teaching Outcomes]{.underline}**
 
