@@ -127,14 +127,14 @@ throughout the world.
 
 ![A large orange truck drives down the road Description automatically
 generated with medium
-confidence](sources/media/container_lorry.jpg){width="2.2303258967629045in"
+confidence](media/container_lorry.jpg){width="2.2303258967629045in"
 height="2.7559055118110236in"}
 
 Photo by [Nur
 Alamin](https://unsplash.com/@nuralamin12?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/xifUN_Mkf8Y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ![A picture containing sky, outdoor, outdoor object Description
-automatically generated](media/container_ship2.jpe){width="2.7559055118110236in"
+automatically generated](media/container_ship2.jpg){width="2.7559055118110236in"
 height="1.8371686351706036in"}
 
 Photo by [Ian
