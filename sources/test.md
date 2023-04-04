@@ -127,7 +127,7 @@ throughout the world.
 
 ![A large orange truck drives down the road Description automatically
 generated with medium
-confidence](media/container_lorry.jpeg){width="2.2303258967629045in"
+confidence](sources/media/container_lorry.jpeg){width="2.2303258967629045in"
 height="2.7559055118110236in"}
 
 Photo by [Nur
