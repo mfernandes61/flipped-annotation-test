@@ -51,21 +51,21 @@ error message for you to Google).
     or to expect them to attain it just to use your software (Raising
     the 'cost of entry' and dissuading them from using it).
 
-+-----------------------------------+-----------------------------------+
-| Pros                              | Cons                              |
-+===================================+===================================+
-| -   Closest to the software       | -   Not always easy to capture    |
-|     authors' development          |     exact pre-requisites          |
-|     environment                   |                                   |
-+-----------------------------------+-----------------------------------+
-|                                   | -   Can require significant IT    |
-|                                   |     experience or support if      |
-|                                   |     issues are encountered        |
-+-----------------------------------+-----------------------------------+
-|                                   | -   Could override/replace        |
-|                                   |     version of existing software  |
-|                                   |     on users PC                   |
-+-----------------------------------+-----------------------------------+
++-----------------------------------+-----------------------------------+.  
+| Pros                              | Cons                              |  
++===================================+===================================+  
+| -   Closest to the software       | -   Not always easy to capture    |  
+|     authors' development          |     exact pre-requisites          |  
+|     environment                   |                                   |  
++-----------------------------------+-----------------------------------+  
+|                                   | -   Can require significant IT    |  
+|                                   |     experience or support if      |  
+|                                   |     issues are encountered        |  
++-----------------------------------+-----------------------------------+  
+|                                   | -   Could override/replace        |  
+|                                   |     version of existing software  |  
+|                                   |     on users PC                   |  
++-----------------------------------+-----------------------------------+  
 
 **[Challenge]{.underline}**:
 
@@ -174,7 +174,7 @@ functions from the Host OS,
 -   **Multiple containers can be run on a Host OS**
 
 ![container elements
-diagram](media/image6.png){width="4.5462959317585305in"
+diagram](media/container.png){width="4.5462959317585305in"
 height="2.5290223097112863in"}
 
 *Lifted diagram (Redraw for final)*
