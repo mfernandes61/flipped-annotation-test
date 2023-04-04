@@ -127,26 +127,26 @@ throughout the world.
 
 ![A large orange truck drives down the road Description automatically
 generated with medium
-confidence](media/container_lorry.jpg){width="2.2303258967629045in"
+confidence](/sources/media/container_lorry.jpg){width="2.2303258967629045in"
 height="2.7559055118110236in"}
 
 Photo by [Nur
 Alamin](https://unsplash.com/@nuralamin12?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/xifUN_Mkf8Y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ![A picture containing sky, outdoor, outdoor object Description
-automatically generated](media/container_ship2.jpg){width="2.7559055118110236in"
+automatically generated](/sources/media/container_ship2.jpg){width="2.7559055118110236in"
 height="1.8371686351706036in"}
 
 Photo by [Ian
 Taylor](https://unsplash.com/@carrier_lost?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/jOqJbvo1P9g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-![](media/container_train.jpg){width="2.7559055118110236in"
+![](/sources/media/container_train.jpg){width="2.7559055118110236in"
 height="1.8371686351706036in"}
 
 Photo by [Michael
 SKOPAL](https://unsplash.com/@michael_skopal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/z5tiShyxZnc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-![](media/container_ship.jpg){width="2.099737532808399in"
+![](/sources/media/container_ship.jpg){width="2.099737532808399in"
 height="3.1496062992125986in"}
 
 Photo by [Nathan
@@ -174,10 +174,9 @@ functions from the Host OS,
 -   **Multiple containers can be run on a Host OS**
 
 ![container elements
-diagram](media/container.png){width="4.5462959317585305in"
+diagram](/sources/media/container.png){width="4.5462959317585305in"
 height="2.5290223097112863in"}
 
-*Lifted diagram (Redraw for final)*
 
 +-----------------------------------+-----------------------------------+
 | Pros                              | Cons                              |
