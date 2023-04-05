@@ -19,11 +19,10 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: sources
-          output_dir: pdf_out
-#          output_dir: pdfs
-          images_dir: sources/media
+          output_dir: pdfs
+          images_dir: 'sources/media'
           # for example <img src="./images/file-name.png">
-#          image_import: ./media/
+          image_import: 'media'
           # Default is true, can set to false to only get PDF files
           build_html: false
       - uses: actions/upload-artifact@v1
