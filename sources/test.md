@@ -1,4 +1,4 @@
-# testing Github Actions PDF generation
+# _testing Github Actions PDF generation_
 
 **[Teaching Outcomes]{.underline}**
 
