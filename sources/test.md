@@ -51,6 +51,7 @@ error message for you to Google).
     or to expect them to attain it just to use your software (Raising
     the 'cost of entry' and dissuading them from using it).
 
+
 +-----------------------------------+-----------------------------------+.  
 | Pros                              | Cons                              |  
 +===================================+===================================+  
@@ -174,8 +175,9 @@ functions from the Host OS,
 -   **Multiple containers can be run on a Host OS**
 
 ![container elements
-diagram](/sources/media/container.png){width="4.5462959317585305in"
+diagram](sources/media/container.png){width="4.5462959317585305in"
 height="2.5290223097112863in"}
+
 
 
 +-----------------------------------+-----------------------------------+
