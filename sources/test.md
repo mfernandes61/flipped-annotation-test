@@ -53,6 +53,12 @@ error message for you to Google).
     the 'cost of entry' and dissuading them from using it).
 
 
+|  Pros    |  Cons |
+|---|---|
+| -   Closest to the software authors' development environment  | -   Not always easy to capture exact pre-requisites     |
+|   | -   Can require significant IT experience or support if issues are encountered    |
+|   | -   Could override/replace version of existing software on users PC          |
+
 +-----------------------------------+-----------------------------------+.  
 | Pros                              | Cons                              |  
 +===================================+===================================+  
