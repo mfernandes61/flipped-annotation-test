@@ -160,7 +160,7 @@ height="2.5290223097112863in"}
 | -   Does not affect software installations on host computer i.e. install into *tabula rasa* environment. | -   Requires expertise/training in creating the Dockerfiles\* |
 | -   Lightweight -- consumes less resources on host computer and faster to launch than VMs | -   Should do tests to compare results with native install |
 | -   Uses Dockerfiles\* to script construction of compute environment |   |
-| -   Supported/welcomed by most Cloud computing providers. Many click & launch options(including Gitpod) are available.   |   |
+| -   Supported/welcomed by most Cloud computing providers. Many click & launch options(including [Gitpod](https://www.gitpod.io)) are available.   |   |
 
 \* We will cover creating a Dockerfile later in this course
 
