@@ -59,22 +59,6 @@ error message for you to Google).
 |   | -   Can require significant IT experience or support if issues are encountered    |
 |   | -   Could override/replace version of existing software on users PC          |
 
-+-----------------------------------+-----------------------------------+.  
-| Pros                              | Cons                              |  
-+===================================+===================================+  
-| -   Closest to the software       | -   Not always easy to capture    |  
-|     authors' development          |     exact pre-requisites          |  
-|     environment                   |                                   |  
-+-----------------------------------+-----------------------------------+  
-|                                   | -   Can require significant IT    |  
-|                                   |     experience or support if      |  
-|                                   |     issues are encountered        |  
-+-----------------------------------+-----------------------------------+  
-|                                   | -   Could override/replace        |  
-|                                   |     version of existing software  |  
-|                                   |     on users PC                   |  
-+-----------------------------------+-----------------------------------+  
-
 **[Challenge]{.underline}**:
 
 In teams analyse the example R or Python programs with respect to
@@ -101,17 +85,18 @@ computer. A layer, called the hypervisor, has the role of running the VM
 and transferring data in and out of it.
 
 ![hypervisor host os of a virtual machine diagram
-](sources/media/virtual.jpg){width="3.071084864391951in"
+](/sources/media/virtual.jpg){width="3.071084864391951in"
 height="3.0833333333333335in"}\
 *Lifted diagram (Redraw for final)*
 
 -   Examples of software to host VMs Microsoft Hyper-V, Virtualbox (Mac
     OS, Windows & Linux)
 
-|   |   |
+| Pros  | Cons  |
 |---|---|
-|   |   |
-|   |   |
+| -   Does not affect Host OS | -   Can require a similar level of IT knowledge/expertise to create the software  environment for VM |
+| -   Can run several servers on one machine | -   Each VM simulates the client OS as well as the hardware so they can get large and heavily consume disk & memory resources and can be slow to start up      |
+| -   Simulates hardware resources that may not be present on host hardware |   |
 
 +-----------------------------------+-----------------------------------+
 | Pros                              | Cons                              |
@@ -187,7 +172,7 @@ functions from the Host OS,
 -   **Multiple containers can be run on a Host OS**
 
 ![container elements
-diagram](sources/media/container.png){width="4.5462959317585305in"
+diagram](/sources/media/container.png){width="4.5462959317585305in"
 height="2.5290223097112863in"}
 
 | Pros  | Cons  |
@@ -196,29 +181,6 @@ height="2.5290223097112863in"}
 | -   Lightweight -- consumes less resources on host computer and faster to launch than VMs | -   Should do tests to compare results with native install |
 | -   Uses Dockerfiles\* to script construction of compute environment |   |
 | -   Supported/welcomed by most Cloud computing providers. Many click & launch options(including Gitpod) are available.   |   |
-
-+-----------------------------------+-----------------------------------+
-| Pros                              | Cons                              |
-+===================================+===================================+
-| -   Does not affect software      | -   Requires expertise/training   |
-|     installations on host         |     in creating the Dockerfiles\* |
-|     computer i.e. install into    |                                   |
-|     *tabula rasa* environment.    |                                   |
-+-----------------------------------+-----------------------------------+
-| -   Lightweight -- consumes less  | -   Should do tests to compare    |
-|     resources on host computer    |     results with                  |
-|     and faster to launch than VMs |                                   |
-+-----------------------------------+-----------------------------------+
-| -   Uses Dockerfiles\* to script  |                                   |
-|     construction of compute       |                                   |
-|     environment                   |                                   |
-+-----------------------------------+-----------------------------------+
-| -   Supported/welcomed by most    |                                   |
-|     Cloud computing providers.    |                                   |
-|     Many click & launch options   |                                   |
-|     (including Gitpod) are        |                                   |
-|     available.                    |                                   |
-+-----------------------------------+-----------------------------------+
 
 \* We will cover creating a Dockerfile later in this course
 
