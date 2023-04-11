@@ -108,6 +108,11 @@ height="3.0833333333333335in"}\
 -   Examples of software to host VMs Microsoft Hyper-V, Virtualbox (Mac
     OS, Windows & Linux)
 
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+
 +-----------------------------------+-----------------------------------+
 | Pros                              | Cons                              |
 +===================================+===================================+
@@ -185,7 +190,12 @@ functions from the Host OS,
 diagram](sources/media/container.png){width="4.5462959317585305in"
 height="2.5290223097112863in"}
 
-
+| Pros  | Cons  |
+|---|---|
+| -   Does not affect software installations on host computer i.e. install into *tabula rasa* environment. | -   Requires expertise/training in creating the Dockerfiles\* |
+| -   Lightweight -- consumes less resources on host computer and faster to launch than VMs | -   Should do tests to compare results with native install |
+| -   Uses Dockerfiles\* to script construction of compute environment |   |
+| -   Supported/welcomed by most Cloud computing providers. Many click & launch options(including Gitpod) are available.   |   |
 
 +-----------------------------------+-----------------------------------+
 | Pros                              | Cons                              |
