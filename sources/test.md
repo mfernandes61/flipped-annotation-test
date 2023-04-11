@@ -98,25 +98,6 @@ height="3.0833333333333335in"}\
 | -   Can run several servers on one machine | -   Each VM simulates the client OS as well as the hardware so they can get large and heavily consume disk & memory resources and can be slow to start up      |
 | -   Simulates hardware resources that may not be present on host hardware |   |
 
-+-----------------------------------+-----------------------------------+
-| Pros                              | Cons                              |
-+===================================+===================================+
-| -   Does not affect Host OS       | -   Can require a similar level   |
-|                                   |     of IT knowledge/expertise to  |
-|                                   |     create the software           |
-|                                   |     environment for VM            |
-+-----------------------------------+-----------------------------------+
-| -   Can run several servers on    | -   Each VM simulates the client  |
-|     one machine                   |     OS as well as the hardware so |
-|                                   |     they can get large and        |
-|                                   |     heavily consume disk & memory |
-|                                   |     resources and can be slow to  |
-|                                   |     start up                      |
-+-----------------------------------+-----------------------------------+
-| -   Simulates hardware resources  |                                   |
-|     that may not be present on    |                                   |
-|     host hardware                 |                                   |
-+-----------------------------------+-----------------------------------+
 
 ***What is a Container?***
 
@@ -171,8 +152,7 @@ functions from the Host OS,
 
 -   **Multiple containers can be run on a Host OS**
 
-![container elements
-diagram](/sources/media/container.png){width="4.5462959317585305in"
+![container elements diagram](/sources/media/container.png){width="4.5462959317585305in"
 height="2.5290223097112863in"}
 
 | Pros  | Cons  |
