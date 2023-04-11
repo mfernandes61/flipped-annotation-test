@@ -152,7 +152,7 @@ functions from the Host OS,
 
 -   **Multiple containers can be run on a Host OS**
 
-![container elements diagram](/sources/media/container.png){width="4.5462959317585305in"
+![container elements diagram](/sources/media/container.jpg){width="4.5462959317585305in"
 height="2.5290223097112863in"}
 
 | Pros  | Cons  |
