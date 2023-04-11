@@ -61,10 +61,10 @@ error message for you to Google).
 
 **[Challenge]{.underline}**:
 
-In teams analyse the example R or Python programs with respect to
-potential barriers to usage by others.\
-We will then have a class discussion of the potential issues you have
-identified
+> In teams analyse the example R or Python programs with respect to
+> potential barriers to usage by others.\
+> We will then have a class discussion of the potential issues you have
+> identified
 
 ***So, what can we do about this?***
 
@@ -165,10 +165,9 @@ height="2.5290223097112863in"}
 \* We will cover creating a Dockerfile later in this course
 
 **[Challenge]{.underline}**:
-
-Go to this Google quiz about the material we have covered in this
-introduction {link\] and answer the questions (Your answers are
-anonymised)
-
-We will then have a review of the class answers and address any
-misunderstandings highlighted by this exercise.
+> Go to this Google quiz about the material we have covered in this
+> introduction {link\] and answer the questions (Your answers are
+> anonymised)
+> 
+> We will then have a review of the class answers and address any
+> misunderstandings highlighted by this exercise.
